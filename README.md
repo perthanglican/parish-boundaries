@@ -2,3 +2,113 @@
 
 Parish boundary definitions for the Anglican Diocese of Perth.
 
+This is a work in progress, and these boundaries should not be used as
+they currently stand.
+
+## Progress so far
+
+ - [ ] Applecross
+ - [ ] Armadale
+ - [ ] Balcatta-Hamersley
+ - [ ] Balga-Mirrabooka
+ - [ ] Bassendean
+ - [ ] Bayswater
+ - [ ] Beaconsfield
+ - [ ] Beechboro
+ - [ ] Belmont
+ - [ ] Beverley-Brookton
+ - [ ] Bicton-Attadale
+ - [ ] Bruce Rock
+ - [ ] Bull Creek-Leeming
+ - [ ] Canning
+ - [ ] Carine-Duncraig
+ - [ ] Carlisle-Rivervale
+ - [ ] City Beach
+ - [ ] Claremont
+ - [ ] Como-Manning
+ - [ ] Cottesloe
+ - [ ] Dalkeith
+ - [ ] Darlington-Bellevue
+ - [ ] Dianella
+ - [ ] East Avon
+ - [ ] East Perth
+ - [ ] East Victoria Park-Bentley
+ - [ ] Ellenbrook
+ - [ ] Esperance
+ - [ ] Floreat Park
+ - [ ] Forrestfield-Wattle Grove
+ - [ ] Fremantle
+ - [ ] Gingin-Chittering
+ - [ ] Gosnells
+ - [ ] Greenwood
+ - [ ] Guildford
+ - [ ] Heathridge
+ - [ ] Highgate
+ - [ ] Hilton
+ - [ ] Joondalup
+ - [ ] Kalamunda
+ - [ ] Kallaroo
+ - [ ] Karrinyup
+ - [ ] Kellerberrin
+ - [ ] Kelmscott
+ - [ ] Kensington
+ - [ ] Kingsley North-Woodvale
+ - [ ] Kwinana
+ - [ ] Lakelands
+ - [ ] Leederville
+ - [ ] Lesmurdie
+ - [ ] Lockridge-Eden Hill
+ - [ ] Lynwood-Langford-Ferndale
+ - [ ] Maddington
+ - [ ] Malaga
+ - [ ] Maylands
+ - [ ] Melville
+ - [ ] Merredin
+ - [ ] Midland
+ - [ ] Moora
+ - [ ] Morawa-Perenjori
+ - [ ] Morley-Noranda
+ - [ ] Mosman Park
+ - [ ] Mt Hawthorn
+ - [ ] Mt Lawley
+ - [ ] Mt Pleasant
+ - [ ] Mundaring
+ - [ ] Murdoch-Winthrop
+ - [ ] Narembeen
+ - [ ] Nedlands
+ - [ ] North Beach
+ - [ ] North Midlands
+ - [ ] North Perth
+ - [ ] Northam
+ - [ ] Quairading
+ - [ ] Quinns-Butler
+ - [ ] Riverton
+ - [ ] Rockingham-Safety Bay
+ - [ ] Roleystone
+ - [ ] Scarborough
+ - [ ] Serpentine-Jarrahdale
+ - [ ] Shenton Park
+ - [ ] South Perth
+ - [ ] Spearwood
+ - [ ] St George's Cathedral
+ - [ ] Subiaco
+ - [ ] Swan
+ - [ ] Swanbourne-Mt Claremont
+ - [ ] The Goldfields
+ - [ ] Thornlie-Kenwick-Huntingdale
+ - [ ] Toodyay-Goomalling
+ - [ ] Turquoise Coast-Dandaragan-Eneabba
+ - [ ] Victoria Park
+ - [ ] Wanneroo
+ - [ ] Warnbro
+ - [ ] Wembley
+ - [ ] West Nedlands
+ - [ ] West Perth
+ - [ ] Whitfords
+ - [ ] Willagee-Kardinya
+ - [ ] Willetton
+ - [ ] Wongan Hills-Dalwallinu
+ - [ ] Woodlands-Wembley Downs
+ - [ ] Wyalkatchem-Koorda with Dowerin
+ - [ ] Yanchep
+ - [ ] York
